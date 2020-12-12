@@ -1,0 +1,14 @@
+{
+    "BCompare_path": "C:\\\\02_SOFT\\\\Xshell\\\\Beyond Compare 4\\\\BCompare.exe",
+    "C:\\01_cloud\\gitlab\\16988": {
+        "default": "profile:root@192.168.1.200?/Projects/PHP/bric",
+        "test": "C:\\01_cloud\\gitlab\\16988_test",
+        "prod": "C:\\01_cloud\\gitlab\\16988_prod",
+        "open_session": {
+            "default": "16988-online",
+            "web": "16988-online-web",
+            "test": "16988-test",
+            "prod": "16988-prod"
+        }
+    }
+}
